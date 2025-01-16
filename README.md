@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 오늘 저는 Git에 대해서 배웠습니다.
 
 git repository의 최상위 경로에는 파일 2개를 만듭니다.
@@ -9,3 +11,8 @@ git repository의 최상위 경로에는 파일 2개를 만듭니다.
 3. A컴퓨터(C:/abc/aaa/TIL) , B컴(C:SSAFY/Desktop/TIL)
 
 4. 어떻게 충돌(conflit)을 해결 할까요?
+   =======
+
+5. 아 뭐고 이게
+   
+   > > > > > > > 
